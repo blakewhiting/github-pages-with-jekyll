@@ -1,0 +1,18 @@
+---
+title: "Title"
+date: 2018-09-06
+---
+author: Me. A GitHub user
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Duuuuuuuuuuuuuuuuuuuuuuun dun dun dun dun dun dun dun dun dun dun dun dundun dun dundundun dun dun dun dun dun dun dundun dundun BOOM dundun dundun dundun BEEP dun dun dun dun dun dun dun BEEP BEEP BEEP BEEP BEEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BOOM daddaddadadsadadadadadadadadadaddadadadadadaddadadaddadadadadadadadadadadadaddadddadaddadadadd dadadadaddaddada
+
+dadadddaddadaddadadadddadadada nyu nyu nyu nyu nyu nnyu nyu nyu nyu nyu nyu nyu nyu nyu nyu nyu doo doo doo doo doo doo doo doo nnn nn nn nn nn nn n nn nnn nn nn nnn nnn nnnnnnnn dddddddd ddadadadadaddadadadadadaadadadadadad BOOM nyu nyu nyu nyu nyu nyu BOOM BOOM BOOM BOOM BOOM BOOM nyunyunyu nyu nyu nyu nyu nyu nyu nyu nyu nyu nyu BOOM BOOM BEEP BEEP BEEP BEEP BEEP dadadadadada ddadad BOOM BOOM BBEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BEEP BOOM (Unintellgibile) ddudndundun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dund dododododododododododododododododododododododododododododoodo DRUM DRUM DRUM ddodododododoododododododododoodododododododo chi chi chi chi chi chih BOOOM chcihcihfkdhfdisjfkla dodododododododododododododododododododododododododododododododododoo SCHEW dododododododoodododododododododododododo dadadadddudndundundudnudndundundunddunfudnundudnudnudndund BOOM
+
+# social links
+twitter_username: your-twitter-handle
+github_username:  your-github-handle
+
+show_excerpts: true # set to false to remove excerpts on the homepage 
+
+theme: minima

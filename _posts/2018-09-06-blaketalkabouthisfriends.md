@@ -1,4 +1,4 @@
-title: This is a page
+title: "Title"
 author: Me. A GitHub user
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"

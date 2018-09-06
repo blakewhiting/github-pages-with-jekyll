@@ -13,6 +13,6 @@ dadadddaddadaddadadadddadadada nyu nyu nyu nyu nyu nnyu nyu nyu nyu nyu nyu nyu 
 twitter_username: your-twitter-handle
 github_username:  your-github-handle
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage 
 
 theme: minima
